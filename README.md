@@ -15,7 +15,9 @@ In order to dive in and provide an analysis and evaluation on the dataset, the S
 ![](images/no_vine_summary.png)
 
 •	The non-vine members had a total of 37,840 total reviews. 
+
 •	The total of 5-star reviews given by non- vine members was total of 20,612.
+
 •	54.47% of 5-star reviews were given by non- vine members 
 
 
