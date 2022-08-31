@@ -1,6 +1,13 @@
 # Amazon_Vine_Analysis
 
-the data’s been cleaned, it’ll then be imported into postgresSQL where its then exported into a CSV (optional). After the data’s been cleaned and broken up into their new categories, diving into the reviews to dissect and analyze the information to see if there is bias. 
+## Overview
+
+The purpose of this project was to perform an analysis on Amazon reviews: since some of the reviews were a part of a vine program (paid reviews) and others were not. In the vine program, provided by Amazon, the reviews were compensated, bring the question of: is there bias in these product reviews? 
+
+There were multiple datasets to choose from varying from e-books to music, digital content, home goods, and so one. The selected data set was pet supplies, as its important to have good quality goods for pets. When looking at the best supplies to get for your pet, its best to have products that are actually beneficial for you and your pet, rather than products that were highly rated and actually are not that great. 
+
+In order to dive in and provide an analysis and evaluation on the dataset, the S3 bucket will need to be read into google colab using PySpark, where it could be cleaned and filtered through for the necessary information. After the data’s been cleaned, it’ll then be imported into postgresSQL where its then exported into a CSV (optional). After the data’s been cleaned and broken up into their new categories, diving into the reviews to dissect and analyze the information to see if there is bias. 
+
 
 ## Results 
 
