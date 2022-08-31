@@ -23,9 +23,11 @@ In order to dive in and provide an analysis and evaluation on the dataset, the S
 
 ![](images/yes_vine_summary.png)
 
-•	The vine members had 170 total reviews, 
+•	The vine members had 170 total reviews. 
+
 •	The total 5-star reviews given by vine members were 65. 
-•	38.23% of 5-star reviews were given by vine members 
+
+•	38.23% of 5-star reviews were given by vine members.
 
 
 ## Summary
